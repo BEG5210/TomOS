@@ -1,5 +1,7 @@
 <!-- tool used: https://codebeautify.org/html-to-markdown -->
 
+https://wiki.osdev.org/GCC_Cross-Compiler
+<br>
 GCC Cross-Compiler
 ==================
 
